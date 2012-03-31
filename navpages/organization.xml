@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="template.xsl"?>
+<root>
+    
+    <image>images/banners/ptitle.jpg</image>
+   <pagelinks>
+   		<pl>
+			<text>About Us|<text>
+			<linkto>navpages/aboutus.xml</linkto>
+		</pl>
+		<pl>
+			<text>About San Antonio|</text>
+			<linkto>navpages/aboutsan.xml</linkto>
+		</pl>
+		<pl>
+			<text>Organizations|</text>
+			<linkto>navpages/organization.xml</linkto>
+		</pl>
+		<pl>
+			<text>Contact Us|</text>
+			<linkto>navpages/contactus.xml</linkto>
+		</pl>
+		<pl>
+			<text>FAQ's|</text>
+			<linkto>navpages/faq.xml</linkto>
+		</pl>
+   </pagelinks>
+    <bodytext>
+        <p>This is a test of the body text</p>
+    </bodytext>
+  
+</root>
+

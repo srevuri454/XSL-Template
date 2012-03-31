@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="template.xsl"?>
+<root>
+    
+    <image>images/banners/ctitle.jpg</image>
+	<bgcolor>#999</bgcolor>
+	<cbgcolor>#CC6602</cbgcolor>
+	<sbgcolor>#999</sbgcolor>
+	<abgcolor>#999</abgcolor>
+	<lbgcolor>#999</lbgcolor>
+	<color>#CC6602</color>
+   <pagelinks>
+   		
+		<pl>
+			<text>Transportation</text>
+			<linkto>navpages/trasportation.xml</linkto>
+		</pl>
+		
+		<pl>
+			<text>Events</text>
+			<linkto>navpages/events.xml</linkto>
+		</pl>
+		<pl>
+			<text>Applications</text>
+			<linkto>navpages/applications.xml</linkto>
+		</pl>
+		<pl>
+			<text>News</text>
+			<linkto>navpages/news.xml</linkto>
+		</pl>
+		<pl>
+			<text>Gallery</text>
+			<linkto>navpages/gallery.xml</linkto>
+		</pl>
+		
+   </pagelinks>
+    <bodytext>
+        <h3>Campus Shuttle:</h3>
+		<p>	7 days / week : 5:30 pm to 12:30 am, from Home to Library and Library to Home.<br />Free for all Central students, faculty and staff.<br />
+		Call our shuttle service @ 210-880 - 2241.	</p>
+		<h3>Airport Drop / Pickup (current students only) :</h3>
+		<p>Houston Airports Drops / Pickups:<br />Current Students : $ 65<br />San Antonio Greyhound Bus staion and San Antonio Airport:<br />Current Students : $10</p>
+		<p>*** Reservation
+		 are required for all airport Drops/Pickups, atleast 3 days in advance. All checks are made payable to Central University. All checks must be hand delivered to Ms. Vickie 
+		 Davis, Maes 0-107, during regular business hours, Mon - Fri : 8:00am to 5:00pm.</p>
+		 <p>For further questions, please call us: 210-880-2241 (or) email us 
+		 nan.nelson@central.edu.</p>
+    </bodytext>
+  
+</root>
+

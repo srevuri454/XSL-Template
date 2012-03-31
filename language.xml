@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="template.xsl"?>
+<root>
+    
+    <image>images/banners/llititle.jpg</image>
+   <bgcolor>#999</bgcolor>
+	<cbgcolor>#999</cbgcolor>
+	<sbgcolor>#999</sbgcolor>
+	<abgcolor>#999</abgcolor>
+	<lbgcolor>#78486E</lbgcolor>
+	<color>#78486E</color>
+     <pagelinks>
+   		<pl>
+			<text value='current'>Visa Requirements</text>
+			<linkto>navpages/visa.xml</linkto>
+		</pl>
+		<pl>
+			<text>Curriculum</text>
+			<linkto>navpages/curriculum.xml</linkto>
+		</pl>
+		<pl>
+			<text>Expenses</text>
+			<linkto>navpages/expenses.xml</linkto>
+		</pl>
+		
+   </pagelinks>
+    <bodytext>
+      <h3> About the Language Institute:</h3>
+<p>
+The Central Language Institute (LLI) is a non-academic English training program, offering full-time study of English as a Second Language during fall, spring, and summer sessions. LLI intensive courses provide English training for international, college-bound students as well as non-native speakers of English living and working in the community. International students in our program work in all language skill areas: writing, grammar, reading, vocabulary, listening comprehension, conversation, and pronunciation.</p>
+<h3>About our courses:</h3>
+<p>Our full-time courses in the fall and spring semesters provide 20 hours of ESL instruction per week and run for 70 class days within these semesters. Tuition for fall and spring semesters is $2250.00 per semester. Our summer sessions provide 100 hours of ESL instruction over a ten week period. Tuition for summer session is $1250.00. Tuition for sessions are subject to change by the TSUS Board.</p>
+
+<h3>Contact Information:</h3>
+
+Bob Gaskin &amp; Sally Tessler<br />
+P.O. Box 10130<br />
+San Antonio, TX 77710<br />
+Tel. (210) 880-8586 &amp; (210) 880-8012 <br />
+Fax (210) 880-2360<br />
+
+    </bodytext>
+  
+  
+</root>
+

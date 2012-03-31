@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="template.xsl"?>
+<root>
+    
+    <image>images/banners/ptitle.jpg</image>
+	<bgcolor>#052F59</bgcolor>
+	<cbgcolor>#999</cbgcolor>
+	<sbgcolor>#999</sbgcolor>
+	<abgcolor>#999</abgcolor>
+	<lbgcolor>#999</lbgcolor>
+	<color>#052F59</color>
+   <pagelinks>
+   		<pl>
+			<text value='current'>About Us</text>
+			
+			<linkto>navpages/aboutus.xml</linkto>
+		</pl>
+		<pl>
+			<text>About San Antonio</text>
+			
+			<linkto>navpages/aboutsan.xml</linkto>
+		</pl>
+		<pl>
+			<text>Organizations</text>
+			
+			<linkto>navpages/organization.xml</linkto>
+		</pl>
+		<pl>
+			<text>Contact Us</text>
+			
+			<linkto>navpages/contactus.xml</linkto>
+		</pl>
+		<pl>
+			<text>FAQ's</text>
+			<linkto>navpages/faq.xml</linkto>
+		</pl>
+   </pagelinks>
+    <bodytext>
+		<p>
+		<h3>Message from the Executive Director:</h3>
+      	<p>Welcome to the web site of International Student Services and Admissions office at Central University.</p>
+			<p>We are proud of the diversity of our international students, faculty, and staff who represent over 44 countries from around the world. Central
+					University highly values our international community and is deeply committed to its support and growth.</p>
+			<p>We are proud of the diversity of our international students, faculty, and staff who represent over 44 countries from around the world. Central 
+			University highly values our international community and is deeply committed to its support and growth.</p>
+			<p>The greatest numbers of our international students come to study Engineering, Computer Science, Business, or Nursing. Increasingly however, 
+			we see growing interest and admissions for study in Kinesiology, Audiology, Education and Human Development and many other departments.</p>
+			<p>However you shape your academic goals, International Student Services and Admissions office is dedicated to providing exemplary service and support to our 
+			international community.</p>
+			<p>We work hard to ensure that the time you spend at Central is productive as well as interesting, generating quality experiences which will serve you and enrich you 
+			the rest of your life.</p>
+			<p>We actively engage international students by providing the information and resources about US laws and regulations, helping you develop leadership skills for the 
+			global marketplace, and when you need it, providing care and help for your own very personal concerns.</p>
+			<p>International Student Services and Admissions is also home to Central Language Institute. LLI offers intensive English language training to individuals who want to 
+			improve English language skills in preparation for admission to Central or any other university where English is the primary medium of instruction.</p>
+			<p>We vigorously promote cultural education throughout the university. A wide range of educational options and events provide a healthy medium for cultural exchange 
+			and appreciation. In short, we are here not only to serve international students but also as a resource to the University, as advocates for global awareness, cultural 
+			competency, and a catalyst for positive change.</p>
+			<p>I am confident that our web site contains the very information you need for success as student at Central University. We constantly try to present all the necessary
+		 that an international student needs to know. If you don't find what you need here, please e-mail me at surya.gade@central.edu. Or call our office at (210) 880-2264.</p>
+		 <p>We welcome you to Central University where we look forward to helping you build a great future.</p>
+		
+		<p style="color:#000;">
+			Yours Sincerely, <br />
+			Dr. John Doe <br />
+			Executive Director ,<br />
+			International Student Services and Admissions,<br />
+			Central University.<br />
+		</p>
+		</p>
+		
+    </bodytext>
+  
+</root>
+

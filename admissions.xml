@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="template.xsl"?>
+<root>
+    
+    <image>images/banners/admtitle.jpg</image>
+   <bgcolor>#999</bgcolor>
+	<cbgcolor>#999</cbgcolor>
+	<sbgcolor>#999</sbgcolor>
+	<abgcolor>#21797A</abgcolor>
+	<lbgcolor>#999</lbgcolor>
+	<color>#21797A</color>
+     <pagelinks>
+   		<pl>
+			<text value='current'>Dead Line</text>
+			<linkto>navpages/deadline.xml</linkto>
+		</pl>
+		<pl>
+			<text>Check List</text>
+			<linkto>navpages/checklist.xml</linkto>
+		</pl>
+		<pl>
+			<text>Admission Enquiries</text>
+			<linkto>navpages/admienquiries.xml</linkto>
+		</pl>
+		<pl>
+			<text>Department Contact Info</text>
+			<linkto>navpages/dptcontactinfo.xml</linkto>
+		</pl>
+		
+   </pagelinks>
+    <bodytext>
+        
+		<table style="width:100%;">
+			<tr>
+				<td style="color:#930; width:40%;"><h3 style="margin-bottom:0px;">Prospective Students Applications:</h3></td>
+				<td style="color:#930; width:40%;"><h3 style="margin-bottom:0px; ">Transfer Students Applications:</h3></td>
+			</tr>
+			<tr>
+			<td style="vertical-align:top;"><a href='#'>Undergraduate Application</a><br /><a href='#'>Graduate Application</a><br /><a href='#'>Financial Statement</a><br /><a href=
+				'#'>Application Fee Credit Card Payment Form</a>
+			</td>
+				
+				<td style="vertical-align:top;"><a href='#'>SEVIS Transfer Release Form</a><br /><a href='#'>Application Fee Credit Card Payment Form</a><br /><a href='#'>Student Status
+				 Transfer Form</a></td>
+			</tr>
+		</table>
+		<p> All the above applications are in pdf format. You will need to install adobe acrobat reader to view those application forms. To get adobe acrobat 
+		reader click here</p> 	
+  </bodytext>
+  
+  
+</root>
+

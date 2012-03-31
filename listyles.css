@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#E5E5E5;
+	color:#333333;
+
+	font: 80.5% Trebuchet MS, Tahoma, Verdana, Arial, sans-serif;
+	line-height: 2;
+
+}
+
+#content{margin-top:35px;}
+
+#bannerNav a:link {text-decoration:none;color:#FFF; background-color:#999;}    /* unvisited link */
+#bannerNav a:visited {text-decoration:none;color:#FFF;background-color:#999;} /* visited link */
+a:hover .nav{text-decoration:none;color:#FFF;background-color:#CCC;}   /* mouse over link */
+#bannerNav a:active {text-decoration:none;color:#FFF;background-color:#CCC;}  /* selected link */
+
+.nav{display:inline-block;width: 149px; text-align:center; line-height:30px; }
+	
+#bannerNav{background-color:#999;height:30px;}
+
+#contentNav a:link{display:inline-block; text-decoration:none; color:#930;}
+#contentNav a:visited{display:inline-block; text-decoration:none; color:#930;}
+#contentNav a:hover{display:inline-block; text-decoration:none; color:#930;}
+#contentNav a:active{display:inline-block; text-decoration:none; color:#930;}
+
+#contentNav a{padding-top:5px;}
+#subbanner{ color:#FFF; margin-top:2px; padding:2px 0 2px 2px; font-size:18px;}
+	
+h3{
+	font-size:1.1em; font-weight:bold; color:#EB8F00;
+}
+
+#footer{text-align:center; background-color:#666; color:#FFF; font-size:14px; width:745px;
+	margin-left:auto;
+	margin-right:auto;
+	
+	padding:3px 30px 3px 30px; }
+
+#container{
+	width:745px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#FFF;
+	padding:0px 30px 15px 30px;
+	
+}
+
+#universityName{
+	font-size:24px;
+	color:#900;
+	margin-bottom:3px;
+}
+
+#slogan{
+	color:#666;
+}
+
+#banner{
+	
+	margin-top:2px;
+}
+
+
+
+
+	

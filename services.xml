@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="template.xsl"?>
+<root>
+    
+    <image>images/banners/sertitle.jpg</image>
+   <bgcolor>#999</bgcolor>
+	<cbgcolor>#999</cbgcolor>
+	<sbgcolor>#B11614</sbgcolor>
+	<abgcolor>#999</abgcolor>
+	<lbgcolor>#999</lbgcolor>
+	<color>#B11614</color>
+     <pagelinks>
+   		<pl>
+			<text value='current'>Services</text>
+			<linkto>navpages/services.xml</linkto>
+		</pl>
+		<pl>
+			<text>Forms</text>
+			<linkto>navpages/forms.xml</linkto>
+		</pl>
+		
+		
+   </pagelinks>
+    <bodytext>
+		<!-- Accordion -->
+		<h2 class="demoHeaders"></h2>
+		<div id="accordion">
+			<div>
+				<h3><a href="#">Immigration:</a></h3>
+				<div>We have answers to your questions about your visa, including how to maintain your F-1 status, how to change from another visa status, what
+				 to do if you need to travel outside the U.S., and how to reinstate your F-1 status if you loose it. We also have answers for your questions
+				 regarding OPT, CPT and other related employment issues. <a href='#'>more</a><p>For immigration questions, please email us to 
+				 dranes@hal.Central.edu</p>
+				 </div>
+			</div>
+			<div>
+				<h3><a href="#">Housing:</a></h3>
+				<div>We will arrange temporary housing for new (incoming first-time or transfer students).<a href='#'>more</a><p>For
+			  transportation and housing questions, please email us to nan.nelson@central.edu</p></div>
+			</div>
+			<div>
+				<h3><a href="#">Transportation</a></h3>
+				<div><span style="font-weight:bold;">Campus Shuttle:</span>We arrange 
+			pickups to and from the library and your residence. <a href='#'>more</a><br /><br /><span style="font-weight:bold;">Airport Pickup:</span>We will
+			 come and receive you at Houston or San Antonio airports or
+			  from Greyhound bus stations. There is no charge for this service for new (incoming first-time or transfer students). <a href='#'>more</a>			
+			</div>
+			</div>
+		</div><!--End of <div id="accordion">-->
+       
+    </bodytext>
+  
+  
+</root>
+
